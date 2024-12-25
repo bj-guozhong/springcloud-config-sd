@@ -1,4 +1,2 @@
-server:
-  port: 9999
 config:
   info: this is spring cloud enter content,read success.
