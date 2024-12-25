@@ -3,6 +3,4 @@ server:
 
 config:
 	info: this is spring cloud enter content,read success.
-
-config:
 	info2: this is second config.
