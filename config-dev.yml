@@ -1,3 +1,8 @@
-server.port=9999
+server:
+	port: 9999
 
-config.info=this is spring cloud enter content,read success.
+config:
+	info: this is spring cloud enter content,read success.
+
+config:
+	info2: this is second config.
